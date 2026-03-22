@@ -1,2 +1,2 @@
-;; Generated package description from tramp-nspawn.el  -*- no-byte-compile: t -*-
-(define-package "tramp-nspawn" "1.0.1.0.20220923.120957" "Tramp integration for systemd-nspawn containers" '((emacs "23")) :commit "c35ade49754e051c84eaa2733447b4307968f200" :authors '(("Brian Cully" . "bjc@kublai.com")) :maintainer '("Brian Cully" . "bjc@kublai.com") :keywords '("tramp" "nspawn" "machinectl" "systemd" "systemd-nspawn") :url "https://github.com/bjc/tramp-nspawn")
+;; Generated package description from tramp-nspawn.el  -*- no-byte-compile: t; lexical-binding:t -*-
+(define-package "tramp-nspawn" "1.0.2.0.20240401.94952" "Tramp integration for systemd-nspawn containers" '((emacs "23")) :commit "a2da5b6b25be7191755678651bdade2f9af5c617" :authors '(("Brian Cully" . "bjc@kublai.com")) :maintainer '("Brian Cully" . "bjc@kublai.com") :keywords '("tramp" "nspawn" "machinectl" "systemd" "systemd-nspawn") :url "https://git.spork.org/tramp-nspawn.git")
